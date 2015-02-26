@@ -223,7 +223,7 @@
 			"file": "animalsort.html",
 			"settings":
 			{
-				"buffer_size": 314,
+				"buffer_size": 318,
 				"line_ending": "Unix"
 			}
 		},
@@ -444,15 +444,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 314,
+						"buffer_size": 318,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								318,
+								318
 							]
 						],
 						"settings":
@@ -489,7 +489,7 @@
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": 0.0,
+						"translation.x": -0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
