@@ -13,7 +13,7 @@ function Animal(species, chrcount){
   this.species = species;
   this.chrcount = chrcount;
   this.toHTML = function(){
-    return '<tr><td>' + this.species + '</td>' + '<td>' + this.chrcount + '</td></tr>';
+    return '<li>' + this.species + ' ' + this.chrcount + '</li>';
   };
 }
 
