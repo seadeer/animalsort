@@ -58,7 +58,7 @@ function bubblesort($animaldata){
       var width1 = $('.animaldata:eq('+ j + ')').width();
       while (width0 > width1){
         var $temp = $('.animaldata:eq(' + j + ')');
-        $('.animaldata:eq('+ j +')').replaceWith($('.animaldata:eq('+ j0 +')');
+        $('.animaldata:eq('+ j +')').replaceWith($('.animaldata:eq('+ j0 +')'));
         $('.animaldata:eq('+ j0 + ')').before($temp);
         width0 = $('.animaldata:eq('+ j0 + ')').width();
         width1 = $('.animaldata:eq('+ j + ')').width();
